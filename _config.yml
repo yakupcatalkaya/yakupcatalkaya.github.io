@@ -83,7 +83,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          NeuroMatch 2021 ECoG Project
+          UMRAM Remote Psychology Experiment
         description: | # this will include new lines to allow paragraphs
           An experiment has been designed via Pygame and acquired data has been visualized.
   - title: Experience # Title for the section
