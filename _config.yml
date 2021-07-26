@@ -91,13 +91,15 @@ content:
     content:
       - layout: left
         title: National Magnetic Resonance Researcher Center (UMRAM)
-        link: umram.bilkent.edu.tr
+        link: #umram.bilkent.edu.tr
         # link_text: boringcompany.com
         sub_title: Undergraduate Researcher
-        caption: Aug 2020- Present  | Ankara, Turkey
+        caption: #Aug 2020- Present  | Ankara, Turkey
         quote: >
           Supervisor: Ausaf Ahmed Farooqui, Ph.D.
         description: | # this will include new lines to allow paragraphs
+          Aug 2020- Present  | Ankara, Turkey
+          umram.bilkent.edu.tr
           Gaining expertise in fMRI analyses, EEG, and interdisciplinary neuroscience experiments.
           
       - layout: left
@@ -105,10 +107,12 @@ content:
         link: akesltd.com
         # link_text: boringcompany.com
         sub_title: Intern
-        caption: June 2020- Aug 2020  | Ankara, Turkey  
+        #caption: June 2020- Aug 2020  | Ankara, Turkey  
         quote: >
-          Supervisor: Mehmet Tugay Kaptanoğlu
+        #Supervisor: Mehmet Tugay Kaptanoğlu
         description: | # this will include new lines to allow paragraphs
+          June 2020- Aug 2020  | Ankara, Turkey
+          Supervisor: Mehmet Tugay Kaptanoğlu
           Designed and developed mechanical ventilator, and oxygen concentrator. 
 
   - title: Education # Title for the section
@@ -118,7 +122,7 @@ content:
         title: Bilkent University
         caption: Sep 2017 - Jun 2023 (Expected) | Ankara, Turkey
         sub_title: BSc in Electrical and Electronic Engineering
-        quote: 
+        quote: >
           CGPA : 2.60/4.0
         description: | # this will include new lines to allow paragraphs
           # 
