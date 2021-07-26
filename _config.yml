@@ -137,12 +137,13 @@ content:
   - title: About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Summer Schools & Certificates & Conferences
+      Summer Schools & Certificates & Conferences |
       - Neuromatch Academy 2021 Computational Neuroscience Summer School
       - Interview Adventure Interview Adventure with Talent Hunters, Bilkent University Career and Alumni Office, Certificate of Participation, 2020
       - 18th National Neuroscience Congress, Certificate of Participation, 2020
       - 6th Bilkent Neuroscience Days, Certificate of Participation, 2018
-      Hobbies & Interests
+      
+      Hobbies & Interests |
       - Ham Radio
       - fountain pen
       - reading modern mythology and fiction books
