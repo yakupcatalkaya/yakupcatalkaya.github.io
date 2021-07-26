@@ -68,7 +68,7 @@ content:
              icon: fab fa-github
              url: github.com/yakupcatalkaya/NMA21_project
         quote: >
-          NeuroMatch 2021 ECoG Project
+        #NeuroMatch 2021 ECoG Project
         description: | # this will include new lines to allow paragraphs
           Analyzed Kai Miller’s Faces&Houses ECoG dataset. Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
       - layout: left
@@ -83,7 +83,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          UMRAM Remote Psychology Experiment
+        #UMRAM Remote Psychology Experiment
         description: | # this will include new lines to allow paragraphs
           An experiment has been designed via Pygame and acquired data has been visualized.
   - title: Experience # Title for the section
