@@ -58,7 +58,7 @@ content:
     content:
       - layout: left
         title: NeuroMatch 2021 Computational Neuroscience Course Project
-        link: github.com/yakupcatalkaya/NMA21_project
+        #link: github.com/yakupcatalkaya/NMA21_project
         # link_text: Project Website
         additional_links:
           #- title:  NMA21 CN Project
