@@ -141,12 +141,16 @@ content:
     content: |
       Programming Skills 
         - Python, Matlab, LATEX, VHDL, Assembly
+        
       Programs
         - Proteus, LtSpice, Putty, Vivado
+        
       Embedded Systems
         - Arduino, Xilinx FPGA, Assembly 8051
+        
       Language 
         - English (professional proficiency), Turkish (native), German (beginner)
+        
           
   
   - title: About Me
