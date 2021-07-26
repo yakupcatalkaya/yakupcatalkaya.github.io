@@ -59,7 +59,7 @@ content:
       - layout: left
         title: NeuroMatch 2021 Computational Neuroscience Course Project
         #link: github.com/yakupcatalkaya/NMA21_project
-        # link_text: Project Website
+        link_text: Project Website
         additional_links:
           #- title:  NMA21 CN Project
           #  icon: fab fa-github
@@ -74,7 +74,7 @@ content:
       - layout: left
         title: Remote Psychology Experiment
         #link: github.com/yakupcatalkaya/psyc_experiment
-        # link_text: Project Website
+        link_text: Project Website
         additional_links:
           - title:  Psychology Experiment
             icon: fab fa-github
