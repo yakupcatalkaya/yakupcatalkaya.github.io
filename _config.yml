@@ -137,8 +137,8 @@ content:
           tion, Digital Design, Microprocessors, Electromagnetics, Signals and Systems, Engineering Mathematics, Introduction to fMRI
 
   - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+    layout: text # Type of content section (list/text)
+    content: |
       - Programming Skills: Python, Matlab, LATEX, VHDL, Assembly
       - Programs: Proteus, LtSpice, Putty, Vivado
       - Embedded Systems: Arduino, Xilinx FPGA, Assembly 8051
