@@ -96,9 +96,10 @@ content:
         sub_title: Undergraduate Researcher
         caption: #Aug 2020- Present  | Ankara, Turkey
         quote: >
-          Supervisor: Ausaf Ahmed Farooqui, Ph.D.
+        #Supervisor: Ausaf Ahmed Farooqui, Ph.D.
         description: | # this will include new lines to allow paragraphs
           Aug 2020- Present  | Ankara, Turkey
+          Supervisor: Ausaf Ahmed Farooqui, Ph.D.
           umram.bilkent.edu.tr
           Gaining expertise in fMRI analyses, EEG, and interdisciplinary neuroscience experiments.
           
