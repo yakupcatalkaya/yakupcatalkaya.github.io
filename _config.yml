@@ -61,19 +61,19 @@ content:
         link: github.com/yakupcatalkaya/NMA21_project
         # link_text: Project Website
         additional_links:
-          - title:  NMA21 CN Project
-            icon: fab fa-github
-            url: github.com/yakupcatalkaya/NMA21_project
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          #- title:  NMA21 CN Project
+          #  icon: fab fa-github
+            #url: github.com/yakupcatalkaya/NMA21_project
+           - title:  NMA21 CN Project
+             icon: fab fa-github
+             url: github.com/yakupcatalkaya/NMA21_project
         quote: >
           NeuroMatch 2021 ECoG Project
         description: | # this will include new lines to allow paragraphs
           Analyzed Kai Miller’s Faces&Houses ECoG dataset. Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
       - layout: left
         title: Remote Psychology Experiment
-        link: github.com/yakupcatalkaya/psyc_experiment
+        #link: github.com/yakupcatalkaya/psyc_experiment
         # link_text: Project Website
         additional_links:
           - title:  Psychology Experiment
@@ -118,7 +118,7 @@ content:
         title: Bilkent University
         caption: Sep 2017 - Jun 2023 (Expected) | Ankara, Turkey
         sub_title: BSc in Electrical and Electronic Engineering
-        quote: >
+        quote: 
           CGPA : 2.60/4.0
         description: | # this will include new lines to allow paragraphs
           # 
@@ -128,12 +128,17 @@ content:
   - title: About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in electronics and computational neuroscience, some of my other interests and hobbies are:
+      Summer Schools & Certificates & Conferences
       - Neuromatch Academy 2021 Computational Neuroscience Summer School
       - Interview Adventure Interview Adventure with Talent Hunters, Bilkent University Career and Alumni Office, Certificate of Participation, 2020
       - 18th National Neuroscience Congress, Certificate of Participation, 2020
       - 6th Bilkent Neuroscience Days, Certificate of Participation, 2018
-
+      Hobbies & Interests
+      - Ham Radio
+      - fountain pen
+      - reading modern mythology and fiction books
+      - watching sci-fiction movies and series
+      
 
 # Footer
 footer_show_references: true
