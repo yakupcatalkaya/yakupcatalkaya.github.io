@@ -6,10 +6,10 @@ favicon: images/mrjacob.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Yakup Çatalkaya
+title: Electronics Engineer
+email: yakup@mrjacob.net
+website: https://scholar.google.com/citations?user=aCtp9fIAAAAJ&hl=tr
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/yakupcatalkaya
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
