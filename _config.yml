@@ -124,11 +124,9 @@ content:
         caption: Sep 2017 - Jun 2023 (Expected) | Ankara, Turkey
         sub_title: BSc in Electrical and Electronic Engineering
         quote: >
-          CGPA : 2.60/4.0
+        #CGPA : 2.60/4.0
         description: | # this will include new lines to allow paragraphs
-          # 
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        #I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: About Me
     layout: text
