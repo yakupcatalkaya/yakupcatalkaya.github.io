@@ -126,7 +126,8 @@ content:
         quote: >
         #CGPA : 2.60/4.0
         description: | # this will include new lines to allow paragraphs
-        #I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          A-Grade Courses: General Physics, Calculus, Scientific Programming in Python, English and Composi-
+          tion, Digital Design, Microprocessors, Electromagnetics, Signals and Systems, Engineering Mathematics, Introduction to fMRI
 
   - title: About Me
     layout: text
