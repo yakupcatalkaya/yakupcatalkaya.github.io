@@ -139,10 +139,14 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - Programming Skills: Python, Matlab, LATEX, VHDL, Assembly
-      - Programs: Proteus, LtSpice, Putty, Vivado
-      - Embedded Systems: Arduino, Xilinx FPGA, Assembly 8051
-      - Language: English (professional proficiency), Turkish (native), German (beginner=
+      Programming Skills 
+        - Python, Matlab, LATEX, VHDL, Assembly
+      Programs
+        - Proteus, LtSpice, Putty, Vivado
+      Embedded Systems
+        - Arduino, Xilinx FPGA, Assembly 8051
+      Language 
+        - English (professional proficiency), Turkish (native), German (beginner)
           
   
   - title: About Me
