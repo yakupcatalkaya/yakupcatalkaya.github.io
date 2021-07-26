@@ -9,7 +9,7 @@ version: 2
 name: Yakup Çatalkaya
 title: Electronics Engineer
 email: yakup@mrjacob.net
-website: https://scholar.google.com/citations?user=aCtp9fIAAAAJ&hl=tr
+website: scholar.google.com/citations?user=aCtp9fIAAAAJ&hl=tr
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -57,20 +57,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/yakupcatalkaya
+        title: NeuroMatch 2021 Computational Neuroscience Course Project
+        link: github.com/yakupcatalkaya/NMA21_project
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  yakupcatalkaya/NMA21_project
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/yakupcatalkaya/NMA21_project
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Analyzed Kai Miller’s Faces&Houses ECoG dataset.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
