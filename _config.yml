@@ -70,11 +70,6 @@ content:
         quote: >
         #NeuroMatch 2021 ECoG Project
         description: | # this will include new lines to allow paragraphs
-          Project link: 
-                  additional_links:
-                    - title:  NMA21 CN Project
-                    #  icon: fab fa-github
-                      url: github.com/yakupcatalkaya/NMA21_project
           Analyzed Kai Miller’s Faces&Houses ECoG dataset. Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
       - layout: left
         title: Remote Psychology Experiment
@@ -141,6 +136,15 @@ content:
           A-Grade Courses: General Physics, Calculus, Scientific Programming in Python, English and Composi-
           tion, Digital Design, Microprocessors, Electromagnetics, Signals and Systems, Engineering Mathematics, Introduction to fMRI
 
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - Programming Skills: Python, Matlab, LATEX, VHDL, Assembly
+      - Programs: Proteus, LtSpice, Putty, Vivado
+      - Embedded Systems: Arduino, Xilinx FPGA, Assembly 8051
+      - Language: English (professional proficiency), Turkish (native), German (beginner=
+          
+  
   - title: About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -152,9 +156,9 @@ content:
       
       Hobbies & Interests 
       - Ham Radio
-      - fountain pen
-      - reading modern mythology and fiction books
-      - watching sci-fiction movies and series
+      - Fountain pen
+      - Modern mythology
+      - Sci-fiction
       
 
 # Footer
