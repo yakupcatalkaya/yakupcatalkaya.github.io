@@ -70,6 +70,11 @@ content:
         quote: >
         #NeuroMatch 2021 ECoG Project
         description: | # this will include new lines to allow paragraphs
+          Project link: 
+                  additional_links:
+                    - title:  NMA21 CN Project
+                    #  icon: fab fa-github
+                      url: github.com/yakupcatalkaya/NMA21_project
           Analyzed Kai Miller’s Faces&Houses ECoG dataset. Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
       - layout: left
         title: Remote Psychology Experiment
