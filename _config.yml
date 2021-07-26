@@ -99,8 +99,11 @@ content:
         #Supervisor: Ausaf Ahmed Farooqui, Ph.D.
         description: | # this will include new lines to allow paragraphs
           Aug 2020- Present  | Ankara, Turkey
+          
           Supervisor: Ausaf Ahmed Farooqui, Ph.D.
+          
           umram.bilkent.edu.tr
+          
           Gaining expertise in fMRI analyses, EEG, and interdisciplinary neuroscience experiments.
           
       - layout: left
@@ -113,7 +116,9 @@ content:
         #Supervisor: Mehmet Tugay Kaptanoğlu
         description: | # this will include new lines to allow paragraphs
           June 2020- Aug 2020  | Ankara, Turkey
+          
           Supervisor: Mehmet Tugay Kaptanoğlu
+          
           Designed and developed mechanical ventilator, and oxygen concentrator. 
 
   - title: Education # Title for the section
