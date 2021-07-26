@@ -68,9 +68,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Analyzed Kai Miller’s Faces&Houses ECoG dataset.
+          NeuroMatch 2021 ECoG Project
         description: | # this will include new lines to allow paragraphs
-          Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
+          Analyzed Kai Miller’s Faces&Houses ECoG dataset. Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
