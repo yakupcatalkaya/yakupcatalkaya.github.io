@@ -9,7 +9,7 @@ version: 2
 name: Yakup Çatalkaya
 title: Electronics Engineer
 email: yakup@mrjacob.net
-website: scholar.google.com/citations?user=aCtp9fIAAAAJ&hl=tr
+#website: scholar.google.com/citations?user=aCtp9fIAAAAJ&hl=tr
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -30,10 +30,10 @@ linkedin_username: yakupcatalkaya
 orcid_username: 0000-0002-6698-7376
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: Google Scholar
+  icon: fas fa-globe
+  url: https://scholar.google.com/citations?user=aCtp9fIAAAAJ&hl=tr
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -61,7 +61,7 @@ content:
         link: github.com/yakupcatalkaya/NMA21_project
         # link_text: Project Website
         additional_links:
-          - title:  yakupcatalkaya/NMA21_project
+          - title:  NMA21 CN Project
             icon: fab fa-github
             url: github.com/yakupcatalkaya/NMA21_project
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -71,7 +71,21 @@ content:
           NeuroMatch 2021 ECoG Project
         description: | # this will include new lines to allow paragraphs
           Analyzed Kai Miller’s Faces&Houses ECoG dataset. Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
-
+      - layout: left
+        title: Remote Psychology Experiment
+        link: github.com/yakupcatalkaya/psyc_experiment
+        # link_text: Project Website
+        additional_links:
+          - title:  Psychology Experiment
+            icon: fab fa-github
+            url: github.com/yakupcatalkaya/NMA21_project
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          NeuroMatch 2021 ECoG Project
+        description: | # this will include new lines to allow paragraphs
+          An experiment has been designed via Pygame and acquired data has been visualized.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -80,48 +94,46 @@ content:
         link: umram.bilkent.edu.tr
         # link_text: boringcompany.com
         sub_title: Undergraduate Researcher
-        caption: Aug 2020- Present
+        caption: Aug 2020- Present  | Ankara, Turkey
         quote: >
           Supervisor: Ausaf Ahmed Farooqui, Ph.D.
         description: | # this will include new lines to allow paragraphs
           Gaining expertise in fMRI analyses, EEG, and interdisciplinary neuroscience experiments.
           
       - layout: left
-        title: National Magnetic Resonance Researcher Center (UMRAM)
-        link: umram.bilkent.edu.tr
+        title: AKES Intelligent Industrial Systems
+        link: akesltd.com
         # link_text: boringcompany.com
-        sub_title: UNDERGRADUATE RESEARCHER
-        caption: Aug 2020- Present
+        sub_title: Intern
+        caption: June 2020- Aug 2020  | Ankara, Turkey  
         quote: >
-          Supervisor: Ausaf Ahmed Farooqui, Ph.D.
+          Supervisor: Mehmet Tugay Kaptanoğlu
         description: | # this will include new lines to allow paragraphs
-          Gaining expertise in fMRI analyses, EEG, and interdisciplinary neuroscience experiments. 
+          Designed and developed mechanical ventilator, and oxygen concentrator. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Bilkent University
+        caption: Sep 2017 - Jun 2023 (Expected) | Ankara, Turkey
+        sub_title: BSc in Electrical and Electronic Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          CGPA : 2.60/4.0
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          # 
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in electronics and computational neuroscience, some of my other interests and hobbies are:
+      - Neuromatch Academy 2021 Computational Neuroscience Summer School
+      - Interview Adventure Interview Adventure with Talent Hunters, Bilkent University Career and Alumni Office, Certificate of Participation, 2020
+      - 18th National Neuroscience Congress, Certificate of Participation, 2020
+      - 6th Bilkent Neuroscience Days, Certificate of Participation, 2018
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
