@@ -98,7 +98,9 @@ content:
         quote: >
         #Supervisor: Ausaf Ahmed Farooqui, Ph.D.
         description: | # this will include new lines to allow paragraphs
-          Aug 2020- Present   Ankara, Turkey
+          Aug 2020 - Present 
+          
+          Ankara, Turkey
           
           Supervisor: Ausaf Ahmed Farooqui, Ph.D.
           
@@ -115,7 +117,9 @@ content:
         quote: >
         #Supervisor: Mehmet Tugay Kaptanoğlu
         description: | # this will include new lines to allow paragraphs
-          June 2020- Aug 2020   Ankara, Turkey
+          June 2020 - Aug 2020   
+          
+          Ankara, Turkey
           
           Supervisor: Mehmet Tugay Kaptanoğlu
           
