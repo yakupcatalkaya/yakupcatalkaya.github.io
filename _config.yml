@@ -55,29 +55,25 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      
       - layout: left
-        title: NeuroMatch 2021 Computational Neuroscience Course Project
-        #link: github.com/yakupcatalkaya/NMA21_project
+        title: SPM Automation for fMRI Preprocessing via Nipype
+        #link: github.com/yakupcatalkaya/psyc_experiment
         link_text: Project Website
         additional_links:
-          #- title:  NMA21 CN Project
-          #  icon: fab fa-github
-            #url: github.com/yakupcatalkaya/NMA21_project
-            - title:  SPM Automation for fMRI Preprocessing via Nipype
-             icon: fab fa-github
-             url: github.com/yakupcatalkaya/spm_automation
+          - title:  SPM Automation
+            icon: fab fa-github
+            url: github.com/yakupcatalkaya/spm_automation
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-        #NeuroMatch 2021 ECoG Project
+        #UMRAM Remote Psychology Experiment
         description: | # this will include new lines to allow paragraphs
           Generated Matlab code for preprocessing for each subject while completing fMRI preprocessing so that problems that may occur due to choosing parameters manually for each time can be eliminated.
+      
             
-           - title:  NMA21 CN Project
-             icon: fab fa-github
-             url: github.com/yakupcatalkaya/NMA21_project
-        quote: >
-        #NeuroMatch 2021 ECoG Project
-        description: | # this will include new lines to allow paragraphs
-          Analyzed Kai Miller’s Faces&Houses ECoG dataset. Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
+      
       - layout: left
         title: Remote Psychology Experiment
         #link: github.com/yakupcatalkaya/psyc_experiment
@@ -93,6 +89,9 @@ content:
         #UMRAM Remote Psychology Experiment
         description: | # this will include new lines to allow paragraphs
           An experiment has been designed via Pygame and acquired data has been visualized.
+            
+          
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
