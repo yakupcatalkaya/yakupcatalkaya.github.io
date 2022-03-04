@@ -75,6 +75,22 @@ content:
             
       
       - layout: left
+        title: NeuroMatch Academy Computational Neuroscience Project
+        #link: github.com/yakupcatalkaya/psyc_experiment
+        link_text: Project Website
+        additional_links:
+          - title:  Summer Course Project
+            icon: fab fa-github
+            url: github.com/yakupcatalkaya/NMA21_project
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+        #UMRAM Remote Psychology Experiment
+        description: | # this will include new lines to allow paragraphs
+          An experiment has been designed via Pygame and acquired data has been visualized.
+
+      - layout: left
         title: Remote Psychology Experiment
         #link: github.com/yakupcatalkaya/psyc_experiment
         link_text: Project Website
@@ -88,8 +104,7 @@ content:
         quote: >
         #UMRAM Remote Psychology Experiment
         description: | # this will include new lines to allow paragraphs
-          An experiment has been designed via Pygame and acquired data has been visualized.
-            
+          Analyzed Kai Miller’s Faces&Houses ECoG dataset. Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
           
           
   - title: Experience # Title for the section
