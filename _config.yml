@@ -39,7 +39,7 @@ additional_links:
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
+gtm: "GTM-TNJLXVJ"  
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
@@ -49,7 +49,7 @@ about_profile_image: images/mrjacob.jpg
 about_content: | # this will include new lines to allow paragraphs
   Currently, I’m a senior Electrical and Electronic Engineering student at Bilkent University in Ankara, Turkey, and an undergraduate researcher in UMRAM. Meanwhile, I am interested in applications of Electronics engineering in the field of Neuroscience, especially in <mark> Non-Invasive Neurostimulation</mark>. In addition to that, I would like to pursue an academic career in Neuroscience.
 
-  I am most skilled in: <mark>Electronics</mark> and <mark>Computational Neuroscience</mark>
+# I am most skilled in: <mark>Electronics</mark> and <mark>Computational Neuroscience</mark>
 
 content:
   - title: Projects # Title for the section
