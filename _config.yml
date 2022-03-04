@@ -115,7 +115,7 @@ content:
           
       - layout: left
         title: AKES Intelligent Industrial Systems
-        link: akesltd.com
+        # link: akesltd.com
         # link_text: boringcompany.com
         sub_title: Intern
         #caption: June 2020- Aug 2020  | Ankara, Turkey  
@@ -150,10 +150,10 @@ content:
         - Python, Matlab, LATEX, VHDL, Assembly
         
       Programs
-        - Proteus, LtSpice, Putty, Vivado
+        - Proteus, LtSpice, Putty, Vivado, SPM, FSL
         
       Embedded Systems
-        - Arduino, Xilinx FPGA, Assembly 8051
+        - Arduino, Xilinx FPGA, Assembly 8051, Raspberry Pi
         
       Language 
         - English (professional proficiency), Turkish (native), German (beginner)
@@ -167,15 +167,17 @@ content:
       - Neuromatch Academy 2021 Computational Neuroscience Summer School
       - Interview Adventure Interview Adventure with Talent Hunters, Bilkent University Career and Alumni Office, Certificate of Participation, 2020
       - 18th National Neuroscience Congress, Certificate of Participation, 2020
+      - Google AI Explore ML Beginner Track, 2020
+      - Introduction to Network Management,Turkish Linux Users Organization, 2020
       - 6th Bilkent Neuroscience Days, Certificate of Participation, 2018
       
       
       
       Hobbies & Interests 
-      - Ham Radio
-      - Fountain pen
-      - Modern mythology
-      - Sci-fiction
+      - Ham Radio: Building antennas, implementing primitive wireless communication protocols
+      - Watching sci-fiction movies and series(Person of Interest, Fringe)
+      - Reading modern mythology and fiction books (Percy Jackson, Metro 2033)
+      - Fountain pen: Calligraphy, ink & pen specifications
       
 
 # Footer
