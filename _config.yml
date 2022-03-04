@@ -63,6 +63,14 @@ content:
           #- title:  NMA21 CN Project
           #  icon: fab fa-github
             #url: github.com/yakupcatalkaya/NMA21_project
+            - title:  SPM Automation for fMRI Preprocessing via Nipype
+             icon: fab fa-github
+             url: github.com/yakupcatalkaya/spm_automation
+        quote: >
+        #NeuroMatch 2021 ECoG Project
+        description: | # this will include new lines to allow paragraphs
+          Generated Matlab code for preprocessing for each subject while completing fMRI preprocessing so that problems that may occur due to choosing parameters manually for each time can be eliminated.
+            
            - title:  NMA21 CN Project
              icon: fab fa-github
              url: github.com/yakupcatalkaya/NMA21_project
