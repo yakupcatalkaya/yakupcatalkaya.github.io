@@ -192,18 +192,9 @@ content:
           Designed and developed mechanical ventilator, and oxygen concentrator. 
 
 
-    - title: Certificates # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Certificate for Animal Use in Experimental Studies
-        link: #umram.bilkent.edu.tr
-        # link_text: boringcompany.com
-        sub_title: Ethical Study Certificate
-        caption: #Aug 2020- Present  | Ankara, Turkey
-        quote: >
-        #Supervisor: Ausaf Ahmed Farooqui, Ph.D.
-        description: | # this will include new lines to allow paragraphs
+  - title: Certificates # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
           Feb 2022 
           The certificate has been issued by Acıbadem University Animal Studies Local Ethical Committee and includes the permission for use of Mouse, Rat, and Rabbit.
           
