@@ -98,7 +98,8 @@ content:
         quote: >
         #UMRAM Remote Psychology Experiment
         description: | # this will include new lines to allow paragraphs
-          In the project, the aim is to understand how and under what conditions a neuron can be fired or excited. For that matter, by using NEURON simulation program and Python programming language, a neural network will be designed and be tested with several signals for stimulation purposes.
+          In the project, the aim is to understand how and under what conditions a neuron can be fired or excited. For that matter, 
+          by using NEURON simulation program and Python programming language, a neural network will be designed and be tested with several signals for stimulation purposes.
       
  
       - layout: left
