@@ -47,15 +47,62 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/mrjacob.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Currently, I’m a senior Electrical and Electronic Engineering student at Bilkent University in Ankara, Turkey, and an undergraduate researcher in UMRAM. Meanwhile, I am interested in applications of Electronics engineering in the field of Neuroscience, especially in <mark> Non-Invasive Neurostimulation</mark>. In addition to that, I would like to pursue an academic career in Neuroscience.
+  Currently, I’m an Electrical and Electronics Engineer graduated from Bilkent University in Ankara, Turkey, and an undergraduate researcher in UMRAM. Meanwhile, I am interested in applications of Electronics engineering in the field of Neuroscience, especially in <mark> Non-Invasive Neurostimulation</mark>. In addition to that, I would like to pursue an academic career in Neuroscience.
 
 # I am most skilled in: <mark>Electronics</mark> and <mark>Computational Neuroscience</mark>
 
 content:
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Bilkent University
+        caption: Sep 2017 - Jun 2023 | Ankara, Turkey
+        sub_title: BSc in Electrical and Electronic Engineering
+        quote: >
+        #CGPA : 2.50/4.0
+        description: | # this will include new lines to allow paragraphs
+          Some Courses Taken: Statistical Learning and Data Analysis, Scientific Programming in Python,
+          Digital Design, Microprocessors, Electromagnetics, Signals and Systems, Engineering Mathematics
+
+  - title: Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      Programming Skills 
+        - Python, Matlab, LATEX, VHDL, Assembly, SQL
+        
+      Programs
+        - Proteus, LtSpice, Putty, Vivado, SPM, FSL
+        
+      Embedded Systems
+        - Arduino, Xilinx FPGA, Assembly 8051, Raspberry Pi
+        
+      Language 
+        - English (professional proficiency), Turkish (native), German (beginner)
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+ 
+ 
+       - layout: left
+        title: Modelling of Excitation and Firing in Simple Neural Networks 
+        #link: github.com/yakupcatalkaya/psyc_experiment
+        link_text: Project Website
+        additional_links:
+          - title:  Neurostimulation
+            icon: fab fa-github
+            url: https://github.com/yakupcatalkaya/Neurostimulation
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+        #UMRAM Remote Psychology Experiment
+        description: | # this will include new lines to allow paragraphs
+          In the project, the aim is to understand how and under what conditions a neuron can be fired or excited. For that matter, by using NEURON simulation program and Python programming language, a neural network will be designed and be tested with several signals for stimulation purposes.
       
+ 
       - layout: left
         title: SPM Automation for fMRI Preprocessing via Nipype
         #link: github.com/yakupcatalkaya/psyc_experiment
@@ -119,7 +166,7 @@ content:
         quote: >
         #Supervisor: Ausaf Ahmed Farooqui, Ph.D.
         description: | # this will include new lines to allow paragraphs
-          Aug 2020 - Present 
+          Aug 2020 - Jan 2023 
           
           Ankara, Turkey
           
@@ -144,34 +191,21 @@ content:
           
           Designed and developed mechanical ventilator, and oxygen concentrator. 
 
-  - title: Education # Title for the section
+
+    - title: Certificates # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Bilkent University
-        caption: Sep 2017 - Jun 2023 (Expected) | Ankara, Turkey
-        sub_title: BSc in Electrical and Electronic Engineering
+        title: Certificate for Animal Use in Experimental Studies
+        link: #umram.bilkent.edu.tr
+        # link_text: boringcompany.com
+        sub_title: Ethical Study Certificate
+        caption: #Aug 2020- Present  | Ankara, Turkey
         quote: >
-        #CGPA : 2.60/4.0
+        #Supervisor: Ausaf Ahmed Farooqui, Ph.D.
         description: | # this will include new lines to allow paragraphs
-          A-Grade Courses: General Physics, Calculus, Scientific Programming in Python, English and Composi-
-          tion, Digital Design, Microprocessors, Electromagnetics, Signals and Systems, Engineering Mathematics, Introduction to fMRI
-
-  - title: Skills # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      Programming Skills 
-        - Python, Matlab, LATEX, VHDL, Assembly
-        
-      Programs
-        - Proteus, LtSpice, Putty, Vivado, SPM, FSL
-        
-      Embedded Systems
-        - Arduino, Xilinx FPGA, Assembly 8051, Raspberry Pi
-        
-      Language 
-        - English (professional proficiency), Turkish (native), German (beginner)
-        
+          Feb 2022 
+          The certificate has been issued by Acıbadem University Animal Studies Local Ethical Committee and includes the permission for use of Mouse, Rat, and Rabbit.
           
   
   - title: Extra Curriculum
