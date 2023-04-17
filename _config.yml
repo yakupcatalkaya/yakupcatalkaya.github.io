@@ -69,23 +69,22 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      Programming Skills 
-        - Python, Matlab, LATEX, VHDL, Assembly, SQL
+     Programming Skills 
+       - Python, Matlab, LATEX, VHDL, Assembly, SQL
         
-      Programs
-        - COMSOL, NEURON, Proteus, LtSpice, Putty, Vivado, SPM, FSL, Git
+     Programs
+       - COMSOL, NEURON, Proteus, LtSpice, Putty, Vivado, SPM, FSL, Git
         
-      Embedded Systems
-        - Arduino, Xilinx FPGA, Intel 8051, Raspberry Pi
+     Embedded Systems
+       - Arduino, Xilinx FPGA, Intel 8051, Raspberry Pi
         
-      Language 
-        - English (professional proficiency), Turkish (native), German (beginner)
-
+     Language 
+       - English (professional proficiency), Turkish (native), German (beginner)
   - title: Projects # Title for the section
-    - layout: list # Type of content section (list/text)
-      content:
-      - layout: left
-          title: Modelling of Excitation and Firing in Simple Neural Networks 
+    layout: list # Type of content section (list/text)
+    content:
+        - layout: left
+          title: Modelling of Excitation and Firing in Simple Neural Networks
           #link: github.com/yakupcatalkaya/psyc_experiment
           link_text: Project Website
           additional_links:
@@ -99,72 +98,72 @@ content:
           #UMRAM Remote Psychology Experiment
           description: | # this will include new lines to allow paragraphs
             In the project, the aim is to understand how and under what conditions a neuron can be fired or excited. For that matter, 
-            by using NEURON simulation program and Python programming language, a neural network will be designed and be tested with several signals for stimulation purposes. Also, COMSOL has been used to simulate firing and excitation of a simple neural network in 3D.
- 
-      - layout: left
-        title: SPM Automation for fMRI Preprocessing via Nipype
-        #link: github.com/yakupcatalkaya/psyc_experiment
-        link_text: Project Website
-        additional_links:
-          - title:  SPM Automation
-            icon: fab fa-github
-            url: github.com/yakupcatalkaya/spm_automation
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-        #UMRAM Remote Psychology Experiment
-        description: | # this will include new lines to allow paragraphs
-          Generated Matlab code for preprocessing for each subject while completing fMRI preprocessing so that problems that may occur due to choosing parameters manually for each time can be eliminated.
+            by using NEURON simulation program and Python programming language, a neural network will be designed and be tested with several signals for stimulation purposes.
+            Also, COMSOL has been used to simulate firing and excitation of a simple neural network in 3D.
+        - layout: left
+          title: SPM Automation for fMRI Preprocessing via Nipype
+            #link: github.com/yakupcatalkaya/psyc_experiment
+          link_text: Project Website
+          additional_links:
+              - title:  SPM Automation
+                icon: fab fa-github
+                url: github.com/yakupcatalkaya/spm_automation
+              # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+              #   icon: fab fa-github
+              #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+            #UMRAM Remote Psychology Experiment
+          description: | # this will include new lines to allow paragraphs
+              Generated Matlab code for preprocessing for each subject while completing fMRI preprocessing so that problems that may occur due to choosing parameters manually for each time can be eliminated.
       
-      - layout: left
-        title: Document Classification with Sememes
-        #link: github.com/yakupcatalkaya/psyc_experiment
-        link_text: Project Website
-        additional_links:
-          - title:  SPM Automation
-            icon: fab fa-github
-            url: github.com/yakupcatalkaya/NLP_project
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-        #UMRAM Remote Psychology Experiment
-        description: | # this will include new lines to allow paragraphs
-          Used cosine similarity to extract uniqu sememes for each news genre and classified news article by using preprocessed and trained class corpus and extracted sememes via Hownet.
+        - layout: left
+          title: Document Classification with Sememes
+            #link: github.com/yakupcatalkaya/psyc_experiment
+          link_text: Project Website
+          additional_links:
+              - title:  SPM Automation
+                icon: fab fa-github
+                url: github.com/yakupcatalkaya/NLP_project
+              # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+              #   icon: fab fa-github
+              #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+            #UMRAM Remote Psychology Experiment
+          description: | # this will include new lines to allow paragraphs
+              Used cosine similarity to extract uniqu sememes for each news genre and classified news article by using preprocessed and trained class corpus and extracted sememes via Hownet.
       
       
-      - layout: left
-        title: NeuroMatch Academy Computational Neuroscience Project
-        #link: github.com/yakupcatalkaya/psyc_experiment
-        link_text: Project Website
-        additional_links:
-          - title:  Summer Course Project
-            icon: fab fa-github
-            url: github.com/yakupcatalkaya/NMA21_project
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-        #UMRAM Remote Psychology Experiment
-        description: | # this will include new lines to allow paragraphs
-          An experiment has been designed via Pygame and acquired data has been visualized.
+        - layout: left
+          title: NeuroMatch Academy Computational Neuroscience Project
+            #link: github.com/yakupcatalkaya/psyc_experiment
+          link_text: Project Website
+          additional_links:
+              - title:  Summer Course Project
+                icon: fab fa-github
+                url: github.com/yakupcatalkaya/NMA21_project
+              # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+              #   icon: fab fa-github
+              #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+            #UMRAM Remote Psychology Experiment
+          description: | # this will include new lines to allow paragraphs
+              An experiment has been designed via Pygame and acquired data has been visualized.
 
-      - layout: left
-        title: Remote Psychology Experiment
+        - layout: left
+          title: Remote Psychology Experiment
         #link: github.com/yakupcatalkaya/psyc_experiment
-        link_text: Project Website
-        additional_links:
+          link_text: Project Website
+          additional_links:
           - title:  Psychology Experiment
             icon: fab fa-github
             url: github.com/yakupcatalkaya/NMA21_project
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
+          quote: >
         #UMRAM Remote Psychology Experiment
-        description: | # this will include new lines to allow paragraphs
-          Analyzed Kai Miller’s Faces&Houses ECoG dataset. Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
+          description: | # this will include new lines to allow paragraphs
+           Analyzed Kai Miller’s Faces&Houses ECoG dataset. Proposed the correlation between error rate and noise rate on stimuli that cause perceptual load while recognizing face stimuli.
           
           
   - title: Experience # Title for the section
