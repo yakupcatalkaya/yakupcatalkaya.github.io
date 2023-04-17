@@ -95,7 +95,6 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
           quote: >
-          #UMRAM Remote Psychology Experiment
           description: | # this will include new lines to allow paragraphs
             In the project, the aim is to understand how and under what conditions a neuron can be fired or excited. For that matter, 
             by using NEURON simulation program and Python programming language, a neural network will be designed and be tested with several signals for stimulation purposes.
@@ -112,7 +111,6 @@ content:
               #   icon: fab fa-github
               #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
           quote: >
-            #UMRAM Remote Psychology Experiment
           description: | # this will include new lines to allow paragraphs
               Generated Matlab code for preprocessing for each subject while completing fMRI preprocessing so that problems that may occur due to choosing parameters manually for each time can be eliminated.
       
@@ -128,7 +126,6 @@ content:
               #   icon: fab fa-github
               #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
           quote: >
-            #UMRAM Remote Psychology Experiment
           description: | # this will include new lines to allow paragraphs
               Used cosine similarity to extract uniqu sememes for each news genre and classified news article by using preprocessed and trained class corpus and extracted sememes via Hownet.
       
