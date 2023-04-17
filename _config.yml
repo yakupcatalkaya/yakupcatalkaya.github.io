@@ -47,7 +47,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/mrjacob.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Currently, I’m an Electrical and Electronics Engineer graduated from Bilkent University in Ankara, Turkey, and an undergraduate researcher in UMRAM. Meanwhile, I am interested in applications of Electronics engineering in the field of Neuroscience, especially in <mark> Non-Invasive Neurostimulation</mark>. In addition to that, I would like to pursue an academic career in Neuroscience.
+  Currently, I’m an Electrical and Electronics Engineer graduated from Bilkent University in Ankara, Turkey, and an undergraduate researcher in UMRAM. Meanwhile, I am interested in applications of Electronics engineering in the field of Neuroscience, especially in <mark> Non-Invasive Neurostimulation</mark>
 
 # I am most skilled in: <mark>Electronics</mark> and <mark>Computational Neuroscience</mark>
 
@@ -73,10 +73,10 @@ content:
         - Python, Matlab, LATEX, VHDL, Assembly, SQL
         
       Programs
-        - Proteus, LtSpice, Putty, Vivado, SPM, FSL
+        - COMSOL, NEURON, Proteus, LtSpice, Putty, Vivado, SPM, FSL, Git
         
       Embedded Systems
-        - Arduino, Xilinx FPGA, Assembly 8051, Raspberry Pi
+        - Arduino, Xilinx FPGA, Intel 8051, Raspberry Pi
         
       Language 
         - English (professional proficiency), Turkish (native), German (beginner)
@@ -99,8 +99,7 @@ content:
           #UMRAM Remote Psychology Experiment
           description: | # this will include new lines to allow paragraphs
             In the project, the aim is to understand how and under what conditions a neuron can be fired or excited. For that matter, 
-            by using NEURON simulation program and Python programming language, a neural network will be designed and be tested with several signals for stimulation purposes.
-      
+            by using NEURON simulation program and Python programming language, a neural network will be designed and be tested with several signals for stimulation purposes. Also, COMSOL has been used to simulate firing and excitation of a simple neural network in 3D.
  
       - layout: left
         title: SPM Automation for fMRI Preprocessing via Nipype
@@ -118,7 +117,22 @@ content:
         description: | # this will include new lines to allow paragraphs
           Generated Matlab code for preprocessing for each subject while completing fMRI preprocessing so that problems that may occur due to choosing parameters manually for each time can be eliminated.
       
-            
+      - layout: left
+        title: Document Classification with Sememes
+        #link: github.com/yakupcatalkaya/psyc_experiment
+        link_text: Project Website
+        additional_links:
+          - title:  SPM Automation
+            icon: fab fa-github
+            url: github.com/yakupcatalkaya/NLP_project
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+        #UMRAM Remote Psychology Experiment
+        description: | # this will include new lines to allow paragraphs
+          Used cosine similarity to extract uniqu sememes for each news genre and classified news article by using preprocessed and trained class corpus and extracted sememes via Hownet.
+      
       
       - layout: left
         title: NeuroMatch Academy Computational Neuroscience Project
@@ -156,6 +170,26 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Bilkent EMTP and BCI Research Group
+        link: #umram.bilkent.edu.tr
+        # link_text: boringcompany.com
+        sub_title: Undergraduate Researcher
+        caption: #Aug 2020- Present  | Ankara, Turkey
+        quote: >
+        #Supervisor: Ausaf Ahmed Farooqui, Ph.D.
+        description: | # this will include new lines to allow paragraphs
+          Jan 2023 - Present 
+          
+          Bilkent, Ankara, Turkey
+          
+          Supervisor: Yusuf Ziya İder, Ph.D.
+          
+          Used NEURON and COMSOL programs to simulate firing and excitation of a simple neural network.
+          
+          Worked on EEG real time data acquisition for BCI experiments.
+          
+
       - layout: left
         title: National Magnetic Resonance Researcher Center (UMRAM)
         link: #umram.bilkent.edu.tr
