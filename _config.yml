@@ -84,7 +84,7 @@ content:
   - title: Projects # Title for the section
     - layout: list # Type of content section (list/text)
       content:
-        - layout: left
+      - layout: left
           title: Modelling of Excitation and Firing in Simple Neural Networks 
           #link: github.com/yakupcatalkaya/psyc_experiment
           link_text: Project Website
