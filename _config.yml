@@ -142,7 +142,6 @@ content:
               #   icon: fab fa-github
               #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
           quote: >
-            #UMRAM Remote Psychology Experiment
           description: | # this will include new lines to allow paragraphs
               An experiment has been designed via Pygame and acquired data has been visualized.
 
