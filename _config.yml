@@ -47,7 +47,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/mrjacob.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Currently, I’m an Electrical and Electronics Engineer graduated from Bilkent University in Ankara, Turkey, and an undergraduate researcher in UMRAM. Meanwhile, I am interested in applications of Electronics engineering in the field of Neuroscience, especially in <mark> Non-Invasive Neurostimulation</mark>
+  Currently, I’m an Electrical and Electronics Engineer graduated from Bilkent University in Ankara, Turkey, and an undergraduate researcher in UMRAM.
 
 # I am most skilled in: <mark>Electronics</mark> and <mark>Computational Neuroscience</mark>
 
