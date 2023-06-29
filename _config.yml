@@ -45,7 +45,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/mrjacob.jpg
+about_profile_image: images/mrjacob.ico
 about_content: | # this will include new lines to allow paragraphs
   Currently, I’m an Electrical and Electronics Engineer graduated from Bilkent University in Ankara, Turkey, and an undergraduate researcher in UMRAM.
 
